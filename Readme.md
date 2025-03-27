@@ -1,0 +1,1 @@
+CurtinCTF2024
