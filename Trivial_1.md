@@ -28,5 +28,3 @@ This is the working code:
 
 ![image](https://github.com/user-attachments/assets/ef8a1824-722b-4ea8-a095-a7474dc1357a)
 
-```text
-CURTIN_CTF{...}
